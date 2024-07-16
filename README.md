@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stacck**
 
-- 🌱 I’m currently join a company **Software Engineer**
+- 🌱 I’m currently join a company as **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio983.000webhostapp.com/](https://portfolio983.000webhostapp.com/)
 
